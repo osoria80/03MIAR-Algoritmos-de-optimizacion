@@ -1,1 +1,1 @@
-# 03MIAR---Algoritmos-de-optimizaci-n
+# Master en Inteligencia Artificial
